@@ -1,2 +1,1 @@
-# FiveM-tp
-natywki na teleport
+Discord - Kryszyn#8988
