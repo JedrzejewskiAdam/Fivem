@@ -1,0 +1,5 @@
+RegisterNetEvent('nazwa:eventu')
+AddEventHandler('nazwa:eventu', function()
+    local ped = PlayerPedId()
+    SetEntityCoords(ped, 338.7400, -584.1171, 74.1617, false, false, false, true)
+end)
