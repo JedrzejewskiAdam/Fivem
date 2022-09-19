@@ -1,5 +1,5 @@
 RegisterNetEvent('natywka:1')
 AddEventHandler('natywka:1', function()
-    local player = PlayerPedId()
-    SetEntityCoords(player, 338.7400, -584.1171, 74.1617, false, false, false, true)
+    local user = PlayerPedId()
+    SetEntityCoords(user, 338.7400, -584.1171, 74.1617, false, false, false, true)
 end)
