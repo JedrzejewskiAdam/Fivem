@@ -1,5 +1,5 @@
-RegisterNetEvent('nazwa:eventu')
-AddEventHandler('nazwa:eventu', function()
+RegisterNetEvent('natywka:1')
+AddEventHandler('natywka:1', function()
     local ped = PlayerPedId()
     SetEntityCoords(ped, 338.7400, -584.1171, 74.1617, false, false, false, true)
 end)
